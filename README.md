@@ -1,18 +1,13 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/romulogoleniesky/287d976dd4ae37f02d2972c4a5a55ee7/raw/64a6de6a873695dd488260a1863a023b71fff224/cardperfil.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Romulo Goleniesky</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Olá mundo! Eu sou Romulo Goleniesky!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romulogoleniesky&color=yellow" alt="Visualizações" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Sou recém formado em Análise e Desenvolvimento de Sistemas pela Estácio, à proucura de uma vaga **Front-end Jr**. 
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 🔭 Atualmente estou disponível para o mercado! Busco fazer uma transição de carreira, nos últimos 10 anos trabalhei em indústria.
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
+- 👨‍💻 Sou entusiata de **HTML, CSS, JavaScript, Python e SQL**, sempre estudando buscando cada vez mais aprimorar meus conhecimentos.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
 <!--
 
