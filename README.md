@@ -30,8 +30,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulogoleniesky&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogoleniesky&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulogoleniesky&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogoleniesky&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
 </p>
 
 
@@ -41,7 +41,7 @@
 
 <p align="left" style="background:yellow">
 <a href="mailto:goleniesky@hotmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-E-mail-05122A?style=flat&logo=gmail" alt="email"/>
+  <img align="center" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="email"/>
   </a>
 <a href="https://linkedin.com/in/romulogoleniesky/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
