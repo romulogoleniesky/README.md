@@ -39,11 +39,11 @@
 
 ## Contatos
 
-<p align="left" style="background:yellow">
+<p> align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a
-<a href="https://linkedin.com/in/romulogoleniesky" target="_blank">
+<a href="https://linkedin.com/in/romulogoleniesky/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Romulo Goleniesky-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/romulo_goleniesky" target="_blank">
