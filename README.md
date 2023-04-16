@@ -39,9 +39,9 @@
 
 ## Contatos
 
-<p> align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+<p align="left" style="background:yellow">
+<a href="mailto:goleniesky@hotmail.com" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-E-mail-05122A?style=flat&logo=gmail" alt="email"/>
   </a>
 <a href="https://linkedin.com/in/romulogoleniesky/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
