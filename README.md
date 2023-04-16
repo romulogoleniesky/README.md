@@ -42,12 +42,12 @@
 <p> align="left" style="background:yellow">
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a
+  </a>
 <a href="https://linkedin.com/in/romulogoleniesky/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Romulo Goleniesky-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/romulo_goleniesky" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-@romulo_goleniesky-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
