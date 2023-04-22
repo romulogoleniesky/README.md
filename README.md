@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/romulogoleniesky/287d976dd4ae37f02d2972c4a5a55ee7/raw/64a6de6a873695dd488260a1863a023b71fff224/cardperfil.svg"/>
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/romulogoleniesky/287d976dd4ae37f02d2972c4a5a55ee7/raw/64a6de6a873695dd488260a1863a023b71fff224/cardperfil.svg"/>
 <h1 align="left"><img src="https://media.giphy.com/media/Mas9wYEkUYkvMOcnio/giphy.gif" height="40px"> Olá mundo! Eu sou Romulo Goleniesky!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulogoleniesky&color=yellow" alt="Visualizações" /> </p>
 
@@ -29,9 +29,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulogoleniesky&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogoleniesky&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=romulogoleniesky&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogoleniesky&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
 </p>
 
 
