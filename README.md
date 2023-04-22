@@ -29,9 +29,9 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=romulogoleniesky&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogoleniesky&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
+<p align="just">
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=romulogoleniesky&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulogoleniesky&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
 </p>
 
 
