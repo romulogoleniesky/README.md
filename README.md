@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou disponível para o mercado! Busco fazer uma transição de carreira, nos últimos 10 anos trabalhei em indústria.
 
-- 👨‍💻 Sou entusiata de **HTML, CSS, JavaScript, Python e SQL**, sempre estudando buscando cada vez mais aprimorar meus conhecimentos.
+- 👨‍💻 Sou entusiata de **HTML, CSS, JavaScript, Python e SQL**, sempre estudando e buscando cada vez mais aprimorar meus conhecimentos.
 
 
 
